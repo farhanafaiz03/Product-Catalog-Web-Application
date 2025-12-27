@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/auth.js"></script>
+</head>
+<body>
+    <header><h1>Registration Page</h1><nav><a href="index.html">Home</a></nav></header>
+    <div class="container">
+        <form onsubmit="registerUser(event)">
+            <label>Full Name:</label><input type="text" required>
+            <label>Email:</label><input type="email" id="reg-email" required>
+            <label>Password:</label><input type="password" id="reg-pass" required>
+            <button type="submit">Register</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Item id="101">
+        <Name>iPhone 15 Pro</Name>
+        <Category>Smartphone</Category>
+        <Price>999</Price>
+        <Brand>Apple</Brand>
+        <Description>Titanium design, A17 Pro chip, and advanced camera system.</Description>
+        <Image>iphone.jpg</Image>
+    </Item>
+    <Item id="102">
+        <Name>Galaxy S24 Ultra</Name>
+        <Category>Smartphone</Category>
+        <Price>1199</Price>
+        <Brand>Samsung</Brand>
+        <Description>AI-powered features, S-Pen included, titanium frame.</Description>
+        <Image>galaxy.jpg</Image>
+    </Item>
+    <Item id="103">
+        <Name>MacBook Air M3</Name>
+        <Category>Laptop</Category>
+        <Price>1099</Price>
+        <Brand>Apple</Brand>
+        <Description>Supercharged by M3, typically thin and light design.</Description>
+        <Image>macbook.jpg</Image>
+    </Item>
+    <Item id="104">
+        <Name>Dell XPS 13</Name>
+        <Category>Laptop</Category>
+        <Price>950</Price>
+        <Brand>Dell</Brand>
+        <Description>Iconic design, borderless display, powerful performance.</Description>
+        <Image>dell.jpg</Image>
+    </Item>
+    <Item id="105">
+        <Name>Apple Watch Series 9</Name>
+        <Category>Smartwatch</Category>
+        <Price>399</Price>
+        <Brand>Apple</Brand>
+        <Description>S9 SiP, double tap gesture, brighter display.</Description>
+        <Image>watch.jpg</Image>
+    </Item>
+</Products>
